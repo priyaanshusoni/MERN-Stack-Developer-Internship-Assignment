@@ -1,6 +1,5 @@
 {
   "name": "role-based-app",
-  "Author": "Aditya Karmakar",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
